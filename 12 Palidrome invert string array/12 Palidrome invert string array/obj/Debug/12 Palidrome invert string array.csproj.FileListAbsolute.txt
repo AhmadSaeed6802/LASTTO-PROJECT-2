@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\12 Palidrome invert string array\12 Palidrome invert string array\bin\Debug\12 Palidrome invert string array.exe.config
+C:\Users\4890\source\repos\12 Palidrome invert string array\12 Palidrome invert string array\bin\Debug\12 Palidrome invert string array.exe
+C:\Users\4890\source\repos\12 Palidrome invert string array\12 Palidrome invert string array\bin\Debug\12 Palidrome invert string array.pdb
+C:\Users\4890\source\repos\12 Palidrome invert string array\12 Palidrome invert string array\obj\Debug\12 Palidrome invert string array.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\12 Palidrome invert string array\12 Palidrome invert string array\obj\Debug\12 Palidrome invert string array.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\12 Palidrome invert string array\12 Palidrome invert string array\obj\Debug\12 Palidrome invert string array.exe
+C:\Users\4890\source\repos\12 Palidrome invert string array\12 Palidrome invert string array\obj\Debug\12 Palidrome invert string array.pdb

@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\5Even numbers 1-100\5Even numbers 1-100\obj\Debug\5Even numbers 1-100.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\5Even numbers 1-100\5Even numbers 1-100\obj\Debug\5Even numbers 1-100.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\5Even numbers 1-100\5Even numbers 1-100\bin\Debug\5Even numbers 1-100.exe.config
+C:\Users\4890\source\repos\5Even numbers 1-100\5Even numbers 1-100\bin\Debug\5Even numbers 1-100.exe
+C:\Users\4890\source\repos\5Even numbers 1-100\5Even numbers 1-100\bin\Debug\5Even numbers 1-100.pdb
+C:\Users\4890\source\repos\5Even numbers 1-100\5Even numbers 1-100\obj\Debug\5Even numbers 1-100.exe
+C:\Users\4890\source\repos\5Even numbers 1-100\5Even numbers 1-100\obj\Debug\5Even numbers 1-100.pdb

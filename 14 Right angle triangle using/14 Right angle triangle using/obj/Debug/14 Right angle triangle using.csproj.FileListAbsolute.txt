@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\14 Right angle triangle using\14 Right angle triangle using\bin\Debug\14 Right angle triangle using.exe.config
+C:\Users\4890\source\repos\14 Right angle triangle using\14 Right angle triangle using\bin\Debug\14 Right angle triangle using.exe
+C:\Users\4890\source\repos\14 Right angle triangle using\14 Right angle triangle using\bin\Debug\14 Right angle triangle using.pdb
+C:\Users\4890\source\repos\14 Right angle triangle using\14 Right angle triangle using\obj\Debug\14 Right angle triangle using.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\14 Right angle triangle using\14 Right angle triangle using\obj\Debug\14 Right angle triangle using.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\14 Right angle triangle using\14 Right angle triangle using\obj\Debug\14 Right angle triangle using.exe
+C:\Users\4890\source\repos\14 Right angle triangle using\14 Right angle triangle using\obj\Debug\14 Right angle triangle using.pdb

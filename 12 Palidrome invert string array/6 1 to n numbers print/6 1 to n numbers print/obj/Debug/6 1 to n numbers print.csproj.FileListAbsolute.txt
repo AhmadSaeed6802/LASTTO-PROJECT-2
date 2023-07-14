@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\6 1 to n numbers print\6 1 to n numbers print\obj\Debug\6 1 to n numbers print.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\6 1 to n numbers print\6 1 to n numbers print\obj\Debug\6 1 to n numbers print.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\6 1 to n numbers print\6 1 to n numbers print\bin\Debug\6 1 to n numbers print.exe.config
+C:\Users\4890\source\repos\6 1 to n numbers print\6 1 to n numbers print\bin\Debug\6 1 to n numbers print.exe
+C:\Users\4890\source\repos\6 1 to n numbers print\6 1 to n numbers print\bin\Debug\6 1 to n numbers print.pdb
+C:\Users\4890\source\repos\6 1 to n numbers print\6 1 to n numbers print\obj\Debug\6 1 to n numbers print.exe
+C:\Users\4890\source\repos\6 1 to n numbers print\6 1 to n numbers print\obj\Debug\6 1 to n numbers print.pdb

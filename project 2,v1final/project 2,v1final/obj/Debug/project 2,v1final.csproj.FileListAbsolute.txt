@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\project 2,v1final\project 2,v1final\bin\Debug\project 2,v1final.exe.config
+C:\Users\4890\source\repos\project 2,v1final\project 2,v1final\bin\Debug\project 2,v1final.exe
+C:\Users\4890\source\repos\project 2,v1final\project 2,v1final\bin\Debug\project 2,v1final.pdb
+C:\Users\4890\source\repos\project 2,v1final\project 2,v1final\obj\Debug\project 2,v1final.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\project 2,v1final\project 2,v1final\obj\Debug\project 2,v1final.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\project 2,v1final\project 2,v1final\obj\Debug\project 2,v1final.exe
+C:\Users\4890\source\repos\project 2,v1final\project 2,v1final\obj\Debug\project 2,v1final.pdb

@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\13 largest and smallest in array\13 largest and smallest in array\obj\Debug\13 largest and smallest in array.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\13 largest and smallest in array\13 largest and smallest in array\obj\Debug\13 largest and smallest in array.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\13 largest and smallest in array\13 largest and smallest in array\bin\Debug\13 largest and smallest in array.exe.config
+C:\Users\4890\source\repos\13 largest and smallest in array\13 largest and smallest in array\bin\Debug\13 largest and smallest in array.exe
+C:\Users\4890\source\repos\13 largest and smallest in array\13 largest and smallest in array\bin\Debug\13 largest and smallest in array.pdb
+C:\Users\4890\source\repos\13 largest and smallest in array\13 largest and smallest in array\obj\Debug\13 largest and smallest in array.exe
+C:\Users\4890\source\repos\13 largest and smallest in array\13 largest and smallest in array\obj\Debug\13 largest and smallest in array.pdb

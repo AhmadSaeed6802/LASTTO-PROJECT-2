@@ -1,0 +1,7 @@
+C:\Users\4890\source\repos\11 Searching a number from array\11 Searching a number from array\bin\Debug\11 Searching a number from array.exe.config
+C:\Users\4890\source\repos\11 Searching a number from array\11 Searching a number from array\bin\Debug\11 Searching a number from array.exe
+C:\Users\4890\source\repos\11 Searching a number from array\11 Searching a number from array\bin\Debug\11 Searching a number from array.pdb
+C:\Users\4890\source\repos\11 Searching a number from array\11 Searching a number from array\obj\Debug\11 Searching a number from array.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\11 Searching a number from array\11 Searching a number from array\obj\Debug\11 Searching a number from array.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\11 Searching a number from array\11 Searching a number from array\obj\Debug\11 Searching a number from array.exe
+C:\Users\4890\source\repos\11 Searching a number from array\11 Searching a number from array\obj\Debug\11 Searching a number from array.pdb
